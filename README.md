@@ -5,6 +5,8 @@
 
 
 2 주차 # 1 화면 출력에 문자열생성
-![2주차(1)_201921067_신정은](https://user-images.githubusercontent.com/72747781/110567385-c7133600-8194-11eb-8962-f300c7d1ebee.png)
+
+![2주차(1)_201921067_신정은](https://user-images.githubusercontent.com/72747781/110569001-3ab64280-8197-11eb-97b2-d705495de073.png)
+
 
 
