@@ -1,5 +1,6 @@
 1주차
-! [201921067_ 신정은 _android studio] (https://user-images.githubusercontent.com/72747781/110566973-21f85d80-8194-11eb-85d7-6382f99dcb18.png)
+
+![201921067_신정은_android studio](https://user-images.githubusercontent.com/72747781/110568900-1d817400-8197-11eb-9e4c-f4a7b868cbca.png)
 
 
 
