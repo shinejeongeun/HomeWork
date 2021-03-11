@@ -10,3 +10,6 @@
 
 
 
+Week 2 Day 2 #1 Practice committing
+
+![2주차(2)_201921067_신정은](https://user-images.githubusercontent.com/72747781/110763713-864f1600-8295-11eb-9449-cdfaa9c7ca04.png)
