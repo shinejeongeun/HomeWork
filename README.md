@@ -20,3 +20,7 @@ Week 2 Day 2 #1 Practice committing
 ![capture1](https://user-images.githubusercontent.com/72747781/111410273-c7bf4580-871b-11eb-97c7-e3961ceb5604.png)
 
 ![capture2](https://user-images.githubusercontent.com/72747781/111410285-cdb52680-871b-11eb-9b57-1f7b5c53fcac.png)
+
+3 주 # 2 라이프 사이클 확인동영상 
+
+https://www.youtube.com/user/amy544940/videos
