@@ -17,4 +17,4 @@ Week 2 Day 2 #1 Practice committing
 
 3 주 # 1 삽입 코드 실행화면
 
-![captuere](https://user-images.githubusercontent.com/72747781/111406570-e3275200-8715-11eb-800c-abd3fdc37547.png)
+![capture](https://user-images.githubusercontent.com/72747781/111408569-cfc9b600-8718-11eb-816d-d0e0e6499e20.png)
