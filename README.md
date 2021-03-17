@@ -23,4 +23,4 @@ Week 2 Day 2 #1 Practice committing
 
 3 주 # 2 라이프 사이클 확인동영상 
 
-https://www.youtube.com/user/amy544940/videos
+https://www.youtube.com/user/amy544940/featured
