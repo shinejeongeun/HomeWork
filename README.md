@@ -15,6 +15,6 @@ Week 2 Day 2 #1 Practice committing
 ![2주차(2)_201921067_신정은](https://user-images.githubusercontent.com/72747781/110763713-864f1600-8295-11eb-9449-cdfaa9c7ca04.png)
 
 
-3 주 # 2 삽입 코드 실행화면
+3 주 # 1 삽입 코드 실행화면
 
 ![captuere](https://user-images.githubusercontent.com/72747781/111406570-e3275200-8715-11eb-800c-abd3fdc37547.png)
